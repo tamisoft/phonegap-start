@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.alunny.amazing"
+	id		= "com.tamisoft.test"
 	version 	= "1.0.0">
 
-	<name>alunnys Amazing App</name>
+	<name>Levis Amazing App</name>
 
 	<description>
-		An Amazing app by alunny
+		An Amazing app by Tamisoft
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://tamisoft.github.com"
+		email="levi@tamisoft.com">
+		Levente Tamas
 	</author>
 
 	<gap:platforms>
